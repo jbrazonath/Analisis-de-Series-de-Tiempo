@@ -1,3 +1,9 @@
+# Integrantes 
+Josmar Brazón
+Carla Sabrina Espínola Hamm
+Sabrina Daiana Pryszczuk
+
+
 # Análisis de Series de Tiempo - AirPassengers
 
 Este repositorio contiene un flujo completo de análisis de series de tiempo aplicado al clásico dataset `AirPassengers`. Está estructurado paso a paso para la presentación de los conceptos, desde la descarga de datos hasta el modelado estadístico.
