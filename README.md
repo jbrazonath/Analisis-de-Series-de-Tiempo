@@ -33,7 +33,7 @@ Si este repositorio está en GitHub, simplemente abre el archivo `Proyecto_Serie
    ```
 2. Instala las dependencias necesarias:
    ```bash
-   pip install pandas matplotlib seaborn statsmodels scikit-learn jupyter
+   pip install pandas numpy matplotlib seaborn statsmodels scikit-learn pmdarima kagglehub jupyter
    ```
 3. Inicia Jupyter Notebook y abre el proyecto:
    ```bash
